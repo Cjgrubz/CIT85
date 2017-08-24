@@ -3,5 +3,8 @@ body {
     background-image: url("pics/bckgrd.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    color: #20ff2c;
+    color: blueviolet;
+    font-size: 47px;
+
 }
+
