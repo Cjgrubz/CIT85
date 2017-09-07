@@ -1,0 +1,25 @@
+* { margin: 50px; }
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #0d11ff;
+}
+
+section {
+    width: 100%;
+    height: 200px;
+    background-color: #9dcbe7;
+}
+
+article {
+    width: 50%;
+    height: 100px;
+    background-color: #0d11ff;
+}
+
+aside, footer {
+    width: 100%;
+    height: 100px;
+    background-color: #20ff2c;
+}
