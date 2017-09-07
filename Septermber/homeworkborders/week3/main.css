@@ -1,0 +1,13 @@
+div {
+    width: 400px;
+    height: 200px;
+    border: 10px solid red;
+    margin: 10px;
+    border-radius: 30%;
+    background-image: url("pics/bckgrd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    border-width: 10px;
+
+}

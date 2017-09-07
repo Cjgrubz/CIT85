@@ -6,5 +6,7 @@ div {
     border-radius: 50%;
     background-color: blueviolet;
     display: inline-block;
+    border-width: 10px;
+
 
 }
