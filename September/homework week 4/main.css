@@ -1,0 +1,14 @@
+a:link {
+    color: coral;
+
+}
+a:hover{
+    color: crimson;
+}
+a:visted {
+    color: darkviolet;
+}
+a:active {
+    color: gold;
+}
+
