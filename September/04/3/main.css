@@ -1,0 +1,21 @@
+.pic {
+    width: 200px;
+    height: 200px;
+    background-color: #9dcbe7;
+    border: 5px solid green;
+    margin: auto auto;
+}
+.pic:hover{
+    background-color: aqua;
+}
+.pic:active{
+    background-color: #e28d37;
+}
+.pic:focus{
+    background-color: #20ff2c;
+}
+
+body {
+    height: 5000px;
+    background-color: blueviolet;
+}
