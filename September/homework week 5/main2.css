@@ -1,0 +1,10 @@
+body {
+    font-size: 36px;
+}
+li:first-child {
+    color: indigo;
+}
+
+li:last-child {
+    color: red;
+}
