@@ -1,0 +1,36 @@
+html, body, div {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div {
+    height: 33.3333vh;
+}
+#cam {
+    color: deepskyblue;
+    font-size: 500px;
+
+}
+#cam :hover {
+    color: coral;
+}
+
+
+
+#s1 {
+    background-color: hsla(180, 50%, 50%, .9);
+}
+#s2 {
+    background-color: hsla(300, 50%, 50%, .9);
+}
+#s3 {
+    background-color: hsla(020, 50%, 50%, .9);
+}
+#s4 {
+    background-color: hsla(080, 90%, 45%, .9);
+}
+#s5 {
+    background-color: hsla(360, 75%, 55%, .9);
+}

@@ -1,0 +1,25 @@
+html, body, header, nav, main, footer {
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+body {
+    border: 2px solid orangered;
+}
+header {
+    height: 45px;
+    width: 45vw;
+    background-color: orange;
+}
+nav {
+    height: 45px;
+    width: 45vw;
+    background-color: fuchsia;
+    float: left;
+}
+main {
+    height: 45px;
+    width: 45vw;
+    background-color: darkmagenta;
+    float: right;
+}
