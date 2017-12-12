@@ -1,0 +1,46 @@
+body {
+
+    font-family: 'Ruslan Display', cursive;
+    background-image: url("../Img/preloginscreen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #788373;
+}
+
+#map {
+    height: 400px;
+    width: 400px;
+    border: 100px solid #82717b;
+}
+
+#flexMap {
+    display: flex;
+    justify-content: center;
+}
+
+#loginForm, #createUserForm {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin: 20px;
+}
+
+.not-visible{
+    display:none;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+#AJAXbtn {
+    float: right;
+}
+
+
+#storageImg {
+    width: 50px;
+    height: 50px;
+    border: 3px solid magenta;
+}

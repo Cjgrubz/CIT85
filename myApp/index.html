@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Advent+Pro|Ruslan+Display" rel="stylesheet">
+    <script src="https://www.gstatic.com/firebasejs/3.5.0/firebase.js"></script>
+
+</head>
+
+<body>
+
+<header></header>
+
+<h1 id="title">The Musician Forum</h1>
+
+<h2 id="welcome"></h2>
+
+<button id="AJAXbtn">AJAXbtn</button>
+
+
+<div id="guitar-info"></div>
+
+
+
+<div class="container">
+    <input id="txtEmail" type="email" placeholder="Email">
+    <input id="txtPassword" type="password" placeholder="Password">
+    <button id="btnLogin" class="btn btn-action">Login</button>
+    <button id="googleLogin">Login With Google</button>
+    <div id="errormessage"></div>
+</div>
+
+<div id="signUpForm">
+    <input type="text" id="firstName" placeholder="FirstName">
+    <input type="text" id="lastName" placeholder="LastName">
+    <input id="signUpEmail" type="email" placeholder="signEmail">
+    <input id="signUpPassword" type="password" placeholder="signPassword">
+    <button id="btnSignUp" class="btn btn-secondary">Join Musicians Forum</button>
+</div>
+
+<progress value="0" max="100" id="uploader">0%</progress>
+<input type="file" value="upload" id="fileButton" />
+
+<div id="databasePush">
+    <input id="database" type="text" placeholder="Database"/>
+    <button id="btnPushToDatabase" class="btn btn-action">Post Your Thoughts</button>
+</div>
+
+<button id="btnLogout" class="btn btn-action hide">Log out</button>
+<div id="flexMap">
+    <div id="map"></div>
+</div>
+
+
+<ul id="list"></ul>
+
+<script src="js/app.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCt8mAmPSERmFnEB15rbumFQ7obus8Wjo0&callback=initMap">
+</script>
+
+</body>
+</html>

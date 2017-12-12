@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cyds-project",
+  "private_key_id": "5981c6dc1524a7405b10ef9fe85a5a4afadf4782",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDeVw2XVeGx1BJo\nFo5sAZ2HtbHRKuq7oG4G3SMpLJ3/pHhMUDdoWrEp8AE1qgp/wPQ96EYNOPgzWmue\num7fENEwCowUXjYLeDLgjVR8TaWX4s2MBkqltxvDl/RRZWPi5FtgDGx/kFkUU+zY\nGJa7k8vsBkKg55i37ZzjNWgaE7xtqSN73WTrKam0zsvPHFkpSvdh/cTdOACjzUXr\nMa48P6kbQdnMNYx1mXBeLCdX+AAid152I+3Vziz8eIBHTJWoITlIKsVIp7Dp+/rp\nojprpX386w0OQGyaKMDFGX9H3TXQDZqrjTyIOnJAmgOApnJK5eqM7GhQNQCcAC1S\nPtJ2ulVfAgMBAAECggEAdWycbPSaggRyxC5FgZ1IyUeYZdO4rOcJtO5Nh41c1IrU\nTdl/qclcD74FpYXsjZQmahumA42258g1Vls3+u8yy6CGYqtu95e/pwB9Qjjv38uU\nqwMXoXWXYDF8gxB9NHNOHufw1V4y7Z11VJuH4AEqjbiwr7Ig4eLIHOcz17HcrjzN\nxj+e+B2Uvt1nJVwHkK42QaoF8+mb1qxsHEE87YoR0Dk1EU31H1lRQ+ywGfIEYBVt\ntUrkGJ7xIoyUxf+cDJqO6Z3YBsdl8HQIfIVu6c/fTq+SXZCEGGgftEd5kWoCWAjv\nSjrtZC9XMGv9OfhUun9qzPsJP+pmELETzTz8w6tWgQKBgQDzjJ02bleu5WDm7IYc\nylGAIAvzJOsRUrgL8V5t4cQSPwQE7QMBhisPBMfDx9qFClcOAsHWYHCg0Wunn8mB\nlshecZp0EuugKPU69LIpyz6PwuWYhj3h1U5wjAifngUT7YEdT9KtSASuXRtTkK/a\nrrZNRbpkLdmjTGekqlfkL41xzwKBgQDptN5z9JOjNJgvmL+eWgVHNlhdMw1q3LFx\n4wFOgRG1flh6aV38PJI0C5Gf1oMWqrUGf1TEn63jQXaHg0wI8TLISXd7sIRhhcC3\nBJqJ3zhiiVFVT4K42xHQcRsvaxjs8StOvQSOA8qzh6OgerxKIqY2JDZRrz5qZO7c\nCgeyPraXcQKBgFPuPGt6oTsDj15lWl5nlqiZ4qRbL6sbn5N2Db2+VOyYzNDJwQRw\ncTxOwG0G3ZaFlrScXKJ9P7McGIZ+uVmwVcK+UaT4tDzQgJpdo1xlz1yJpMfoU0EV\nWl/M0lf3g/Z3Hcy1KnxO2lYgff9RWFj7ZpXAlthZOKxe80S682kOvibfAoGAIH9H\nA4a51NLmao/p7UIFQ965sNP9hKOFhRmUv+7QoJUeBn+KUx21EsmdCUXR2qAIJgwk\npGazzkr3CWbndsLbVeBpXeiwr8LihlB8kLlaZNFFXwB8Y+oKcxqXNiPFRoVOiVdd\nP8YlNIui5BjM/94LkLG+X+NnYXIBiNVYNp/j0fECgYEAgedEgHOL+aqAolEX4Fx6\n99VPj4nAv9mbmWG9oxcKPjMa6T4nThvKJI5D1OzSH5xztod3T0TDppRasDZw0mUF\nufzkGX7uia6eKZtULvwjqQ2iFdhm3uvbH4FxxVQsTiBEir762MDKubpiuet0AOti\n1Q7DJU0Ut41s7qG1iMnKjT8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cyds-project@cyds-project.iam.gserviceaccount.com",
+  "client_id": "111361837856023011455",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cyds-project%40cyds-project.iam.gserviceaccount.com"
+}

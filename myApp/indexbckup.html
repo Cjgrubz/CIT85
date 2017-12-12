@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Advent+Pro|Ruslan+Display" rel="stylesheet">
+
+
+</head>
+<body>
+<header>
+
+    <form id="loginForm"  onsubmit="return loginUser()">
+        <input id="userName" type="text" placeholder="username" required>
+        <input id="passWord" type="password" placeholder="password" required>
+        <input id="submit" type="submit" value="Login"/>
+    </form>
+
+    <form id="createUserForm" onsubmit="return storeNewUser()">
+        <input id="createName" type="text" placeholder="Create user name" required /><br>
+        <input id="createPass" type="password" placeholder="Create user password" required /><br>
+        <input id="retypePass" type="password" placeholder="re-enter user password" required /><br>
+        <input id="make" type="submit" value="Create"/>
+    </form>
+
+</header>
+
+<div id='main'>
+
+    <article>
+
+        <h1>middle</h1>
+        <div id="loginScreen" class="not-visible"></div>
+
+        <a href="#" class="myButton" id="outside">Musician's Blog</a>
+        <div id="showBlog">
+
+        </div>
+
+    </article>
+
+    <nav>
+
+
+        <h1>left side</h1>
+
+
+    </nav>
+    <aside>
+
+        <h1>right side</h1>
+
+    </aside>
+</div>
+<footer>
+    <h1>bottom</h1>
+
+
+</footer>
+<script src="js/app.js"></script>
+
+
+</body>
+</html>
